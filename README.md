@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Bruce
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&width=400&lines=Junior+Software+Engineer)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&width=400&lines=Junior+Software+Engineer.&repeat=false)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=888888&width=800&lines=Algorithms+•+Optimization+•+Combating+Financial+Fraud)
 
 
