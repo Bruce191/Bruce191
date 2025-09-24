@@ -8,7 +8,7 @@ Hi, I’m Bruce, 22, a Junior Software Engineer with 4 years of experience worki
 
 ### 📌 Projects & Links
 - **[SpendShield](link-to-spendshield)** – Tampering detection SaaS  
-- **[My Articles](https://medium.com/@bruce191)** – Insights on Cyber Crime deterrence, Programming & Secure software design
+- **[My Articles](https://medium.com/@bruce191)** – Insights on Financial Cyber Crime deterrence, Programming & Secure software design
 ---
 
 ### ⚡ About Me
