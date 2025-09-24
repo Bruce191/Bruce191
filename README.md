@@ -1,4 +1,4 @@
-# :hurtrealbad: Hi, I’m Bruce
+:hurtrealbad: Hi, I’m Bruce
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=888888&width=800&lines=Junior+Software+Engineer+•+Algorithms+•+Optimization+•+Combating+Financial+Fraud)
 
