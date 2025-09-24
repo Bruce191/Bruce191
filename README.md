@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&width=400&lines=Junior+Software+Engineer.&repeat=false)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=FFFFFF&width=800&lines=Algorithms+•+Optimization+•+Combating+Corporate+Financial+Fraud&repeat=false)![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=500&color=FFFFFF&width=10&lines=.)
-=.)
 
 
 
