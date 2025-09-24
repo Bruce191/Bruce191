@@ -5,15 +5,7 @@
 
 
 
-Hi, I’m **Bruce**, 22, a Junior Software Engineer with 4 years of experience working in **corporate Online Safety AI**. I work primarily with **Python**, focusing on **algorithms, optimization**, and personally creating **tools that combat financial fraud**. I’m the founder of **SpendShield**, a SaaS platform for **tampering detection in financial documents**, and I also run a community blog sharing insights on software engineering.
-
----
-
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-
+Hi, I’m **Bruce**, 22, a Junior Software Engineer with 4 years of experience working in **corporate Online Safety AI teams**. I work primarily with **Python**, focusing on **algorithm optimization and security**, and personally creating **tools that combat financial fraud**. I’m the founder of **SpendShield**, a SaaS platform for **tampering detection in financial documents**, and I also run a community blog sharing insights on software engineering.
 ---
 
 ### 📌 Projects & Links
@@ -21,8 +13,7 @@ Hi, I’m **Bruce**, 22, a Junior Software Engineer with 4 years of experience w
 - **[Community Blog](link-to-blog)** – Insights on programming tools & secure software design  
 
 ---
-
 ### ⚡ About Me
-- Passionate about building **secure, scalable SaaS solutions**  
-- Focused on **optimization and performance**  
-- Interested in applying **technology to prevent financial fraud**
+- Passionate about building secure, scalable SaaS solutions
+- Focused on combating fraud, algrotihm optimization
+- Interested in analyzing fraud patterns and designing tools to prevent financial crime
