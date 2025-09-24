@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&width=400&lines=Junior+Software+Engineer)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=888888&width=400&lines=Algorithms+•+Optimization+•+Combating+Financial+Fraud)
+
 Hi, I’m **Bruce**, 22, a Junior Software Engineer with 4 years of experience working in **corporate Online Safety AI teams**. I work primarily with **Python**, focusing on **algorithms, optimization**, and creating **tools that combat financial fraud**. I’m the founder of **SpendShield**, a SaaS platform for **tampering detection in financial documents**, and I also run a community blog sharing insights on secure, efficient software design.  
 
 ---
