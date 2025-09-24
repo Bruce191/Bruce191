@@ -3,19 +3,24 @@
 </p>
 
 <p align="center">
-Hi, I’m Bruce, 22, a Junior Software Engineer with 4 years of experience working in corporate Online Safety AI teams. I work primarily with Python, focusing on algorithms, optimization, and creating tools that combat financial fraud. I’m the founder of SpendShield, a SaaS platform for tampering detection in financial documents, and I also run a community blog sharing insights on secure, efficient software design.
+Hi, I’m Bruce, 22, a Junior Software Engineer with 4 years of experience working in corporate Online Safety AI teams. I work mainly with <strong>Python</strong>, <strong>FastAPI</strong>, <strongSQL/Databases</strong>, alongside AI, focusing on algorithms, optimization, and creating tools that combat financial fraud. I’m the founder of <strong>SpendShield</strong>, a SaaS platform for tampering detection in financial documents, and I also run a community blog sharing insights on secure, efficient software design.
 </p>
 
 ---
 
 <p align="center">
-  <!-- Skills / Focus Areas as badges -->
+  <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
+
+---
+
+<p align="center">
+  <!-- Animated typing for highlights -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=500&color=00FF00&width=600&lines=Algorithms+%26+Optimization;Fraud+Detection+Tools;Secure+SaaS+Development;AI+Integration)
 </p>
 
 ---
